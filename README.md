@@ -3,7 +3,7 @@
 ## _A Shipment Overview on Delivery Performance_
 
 ![Main Dashboard](https://i.gyazo.com/796cb29689f9fc6aa247386d00ec86ed.jpg)
-![Secondary Dashboard](https://i.gyazo.com/5300a31ee6e402c1bedfff88f7141be1.jpg)
+![Secondary Dashboard](https://i.gyazo.com/c02499b7c5b03ec8dbbade90164b0c9e.jpg)
 
 ### [Link to Dataset](https://data.world/usaid/supply-chain-shipment-pricing)
 
@@ -11,7 +11,7 @@
 
 ### Description of Dataset
 
-The supply chain dataset used in this capstone is from the United States Agency for International Development. It mainly consists of shipment information of Antiretroviral (ARV) and HIV lab commodity itemss to destination countries. This includes the scheduled and actual delivery dates, relevant pricing data of health commodity items and the corresponding freight expenditure to ship the items to their destinations. The dataset has a size of 10,324 rows and is dated from 2006 to 2015.
+The supply chain dataset used in this capstone is from the United States Agency for International Development. It mainly consists of shipment information of Antiretroviral (ARV) and HIV lab commodity items to destination countries. This includes the scheduled and actual delivery dates, relevant pricing data of health commodity items and the corresponding freight expenditure to ship the items to their destinations. The dataset has a size of 10,324 rows and is dated from 2006 to 2015.
 
 Some assumptions made on the dataset:
 
