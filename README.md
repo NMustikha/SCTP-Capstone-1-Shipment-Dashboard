@@ -11,7 +11,7 @@
 
 ### Description of Dataset
 
-The supply chain dataset used in this capstone is from the United States Agency for International Development. It mainly consists of shipment information of Antiretroviral (ARV) and HIV lab shipments to destination countries. This includes the scheduled and actual delivery dates, relevant pricing data of health commodity items and the corresponding freight expenditure to ship the items to their destinations. The dataset has a size of 10,324 rows and is dated from 2006 to 2015.
+The supply chain dataset used in this capstone is from the United States Agency for International Development. It mainly consists of shipment information of Antiretroviral (ARV) and HIV lab commodity itemss to destination countries. This includes the scheduled and actual delivery dates, relevant pricing data of health commodity items and the corresponding freight expenditure to ship the items to their destinations. The dataset has a size of 10,324 rows and is dated from 2006 to 2015.
 
 Some assumptions made on the dataset:
 
