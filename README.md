@@ -55,11 +55,13 @@ Q1 and Q4 are usually the off peak period (New Year's Day, Christmas) whereby or
 
 1. Remove duplicates (no duplicates found in dataset)
 2. Formatted custom date (d-mmm-yy) to short date (d/mm/yyyy)
-3. Formatted text under the price columns to currency ($)
-4. Added columns to determine rows with numerical freight weight and freight cost
-5. Added columns to proper text for selected columns
-6. Added columns to group countries into regions and sub regions
-7. Remove columns with data dated from 2006 to 2010
-8. Remove columns without freight weight and freight cost data
+3. Added columns to calculate actual days of delivery and verification
+4. Added column to determine if delivery is on time
+5. Formatted text under the price columns to currency ($)
+6. Added columns to determine rows with numerical freight weight and freight cost
+7. Added columns to proper text for selected columns
+8. Added columns to group countries into regions and sub regions
+9. Remove columns with data dated from 2006 to 2010
+10. Remove columns without freight weight and freight cost data
 
 #### [Link to My LinkedIn Profile](https://sg.linkedin.com/in/noor-mustikha-nk)
